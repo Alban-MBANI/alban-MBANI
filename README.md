@@ -17,6 +17,8 @@ Mon objectif : transformer des données brutes en insights actionnables.
 
 | Diplôme | Établissement | Période |
 
+| Master 2 Big Data, Analyse & Business Intelligence | Université Sorbonne Paris Nord                                 | 2026 – 2027|
+
 | Master 1 Big Data, Analyse & Business Intelligence | Université Sorbonne Paris Nord                                 | 2025 – 2026 |
 
 | Licence 3 Économie, Entreprises et Environnement   | Université du Littoral Côte d'Opale                            | 2024 – 2025 |
